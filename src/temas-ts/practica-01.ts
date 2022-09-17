@@ -25,7 +25,7 @@ type Direccion = {
     return `${this.nombre}, ${this.direccion.estado}, ${this.direccion.pais}`
    }
   }
-  
+
   console.log('====================================');
   console.log(alumnoUTL.mostrarDireccion());
   console.log('====================================');

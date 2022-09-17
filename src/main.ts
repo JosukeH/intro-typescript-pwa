@@ -1,5 +1,5 @@
 import './styles/main.css'
-// import './temas-ts/declaracion_variables'
+
 
 export default document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
@@ -7,3 +7,7 @@ export default document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <h2>ES20XX </h2>
   </div>
 `
+
+
+
+
